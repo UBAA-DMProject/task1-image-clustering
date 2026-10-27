@@ -1,0 +1,18 @@
+# 原始作业数据
+data/*
+!data/README.md
+*.zip
+
+# 本地环境、缓存与编辑器状态
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 临时执行文件
+*.log
+*.tmp
