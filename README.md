@@ -145,7 +145,3 @@ results/
 ## 7. 参考与提交范围
 
 方法原理、评价定义和实现接口的编号引用见Notebook第9节，涵盖Lloyd、Dalal与Triggs、Hubert与Arabie、Rousseeuw的原始文献，以及scikit-learn、scikit-image和SciPy官方文档。
-
-本仓库对应课程大作业的**图像聚类任务**。报告PDF、小组分工及其他课程任务按作业说明另行提交。
-# task1-image-clustering
-# task1-image-clustering
